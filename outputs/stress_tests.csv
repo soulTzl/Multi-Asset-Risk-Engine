@@ -1,0 +1,26 @@
+scenario,portfolio,portfolio_return,portfolio_loss
+Risk-off growth shock,Equal weight,-0.06625,0.06625
+Risk-off growth shock,Inverse volatility,-0.03001950599351301,0.03001950599351301
+Risk-off growth shock,Risk parity,-0.011552376264752919,0.011552376264752919
+Risk-off growth shock,Minimum variance,0.0032881516570634393,-0.0032881516570634393
+Risk-off growth shock,Max Sharpe,-0.00037528136482459164,0.00037528136482459164
+Inflation and rates shock,Equal weight,-0.026250000000000002,0.026250000000000002
+Inflation and rates shock,Inverse volatility,-0.03173726279795056,0.03173726279795056
+Inflation and rates shock,Risk parity,-0.013888633254239533,0.013888633254239533
+Inflation and rates shock,Minimum variance,-0.01523966303216604,0.01523966303216604
+Inflation and rates shock,Max Sharpe,0.01380976067631624,-0.01380976067631624
+Commodity supply spike,Equal weight,0.021249999999999998,-0.021249999999999998
+Commodity supply spike,Inverse volatility,0.007070591687572799,-0.007070591687572799
+Commodity supply spike,Risk parity,0.01446664737110212,-0.01446664737110212
+Commodity supply spike,Minimum variance,0.009577667767896446,-0.009577667767896446
+Commodity supply spike,Max Sharpe,0.027061380144720575,-0.027061380144720575
+Dollar squeeze,Equal weight,-0.045,0.045
+Dollar squeeze,Inverse volatility,-0.015236210285992063,0.015236210285992063
+Dollar squeeze,Risk parity,0.01052078619363377,-0.01052078619363377
+Dollar squeeze,Minimum variance,0.024103308096098883,-0.024103308096098883
+Dollar squeeze,Max Sharpe,0.019139088384904898,-0.019139088384904898
+Crypto deleveraging,Equal weight,-0.06125,0.06125
+Crypto deleveraging,Inverse volatility,-0.01706037097848867,0.01706037097848867
+Crypto deleveraging,Risk parity,-0.009528880689824886,0.009528880689824886
+Crypto deleveraging,Minimum variance,0.0036885014971900203,-0.0036885014971900203
+Crypto deleveraging,Max Sharpe,-0.005862124649759985,0.005862124649759985
